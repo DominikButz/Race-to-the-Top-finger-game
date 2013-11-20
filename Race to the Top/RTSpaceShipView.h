@@ -1,5 +1,5 @@
 //
-//  RTViewController.h
+//  RTSpaceShipView.h
 //  Race to the Top
 //
 //  Created by Dominik Butz on 18.11.13.
@@ -8,7 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface RTViewController : UIViewController
-@property (strong, nonatomic) IBOutlet UILabel *scoreLabel;
+@interface RTSpaceShipView : UIView
 
 @end
